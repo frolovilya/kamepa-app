@@ -1,1 +1,1 @@
-[Privacy Policy]({% link privacy-policy.md %})
+[Privacy Policy]({% link privacy-policy.md | relative_url %})
