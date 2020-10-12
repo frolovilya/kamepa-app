@@ -1,1 +1,1 @@
-[Privacy Policy](/kamepa-app/{% link privacy-policy.html %})
+[Privacy Policy]({% link privacy-policy.md %})
