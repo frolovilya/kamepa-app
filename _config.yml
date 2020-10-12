@@ -2,5 +2,4 @@ theme: jekyll-theme-hacker
 
 title: Kamepa
 
-github:
-  is_project_page: false
+show_downloads: false
