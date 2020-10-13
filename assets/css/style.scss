@@ -3,8 +3,11 @@
 
 @import "{{ site.theme }}";
 body {
-    font-family: 'SF Mono', SFMono-Regular, ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace;
+    font-family: "SF Pro Display","SF Pro Icons","Apple WebExp Icons Custom","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-a {
+a, a:visited {
     color: #facc00;
+}
+a:hover {
+    color: black;
 }
