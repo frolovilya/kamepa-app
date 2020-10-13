@@ -2,12 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-header h1 {
-    margin-left: 0;
-}
-header h1:before {
-    content: none;
-}
-#downloads {
-    display: none;
+body {
+    font-family: 'SF Mono', SFMono-Regular, ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace;
 }
