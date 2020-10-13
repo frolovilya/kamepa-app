@@ -1,7 +1,9 @@
 Photo camera with extended manual controls and features for photographers and photo enthusiasts. 
 Capture RAW photos with manual exposure. 
 
+<p style="text-align: center">
 ![UI](./assets/images/ui.png)
+</p>
 
 Features: 
 * RAW + JPEG/HEIC photo capturing 
