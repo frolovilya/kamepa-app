@@ -1,6 +1,6 @@
 # Kamepa
 
-Photo camera with extended manual controls and features for photographers and photo enthusiasts. Capture RAW photos with manual exposure. 
+iOS Photo camera with extended manual controls and features for photographers and photo enthusiasts. Capture RAW photos with manual exposure. 
 
 [Go to kamepa.app](https://kamepa.app/)
 
