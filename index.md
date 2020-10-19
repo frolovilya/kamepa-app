@@ -30,3 +30,5 @@ Take sharp photos even with slow shutter speeds (JPEG/HEIC only).
 ---
 
 [Privacy Policy](privacy-policy.md)
+
+[Contacts](contacts.md)
