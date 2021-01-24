@@ -10,6 +10,7 @@ Features:
 * Manual white balance controls including low-level gains control support 
 * Exposure and focus points selection 
 * Manual focusing 
+* RGB and lightness histograms
 * Image stabilization
 * Horizon level
 
