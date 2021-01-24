@@ -24,11 +24,14 @@ Spot exposure metering mode and accurate focusing.
 
 #### Manual focusing
 Lock focus or get precise focusing distance which can't be achieved with auto-focus.
+
+#### Histograms
+View RGB and lightness histograms in perceptual and linear scales.
  
 #### Image stabilization
 Take sharp photos even with slow shutter speeds (JPEG/HEIC only).
 
-### Horizon level
+#### Horizon level
 Keep track of the horizon level for ideal composition.
 
 ---
